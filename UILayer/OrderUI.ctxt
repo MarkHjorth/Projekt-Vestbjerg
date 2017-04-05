@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OrderUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ OrderUI\r\n
+comment1.params=
+comment1.target=void\ orderInterface()
+comment10.params=number
+comment10.target=void\ deleteOrder(int)
+comment2.params=
+comment2.target=boolean\ orderMenu()
+comment3.params=
+comment3.target=int\ numberInput()
+comment3.text=\r\n\ Gets\ a\ number\ input,\ without\ exception\ \r\n
+comment4.params=orderDate\ shopAssName\ cName
+comment4.target=ModelLayer.Order\ createOrder(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=name\ amount\ o
+comment5.target=void\ addProduct(java.lang.String,\ int,\ ModelLayer.Order)
+comment6.params=number
+comment6.target=ModelLayer.Order\ printOrderFromTempArray(int)
+comment7.params=number
+comment7.target=ModelLayer.Order\ printOrderByNumber(int)
+comment8.params=name
+comment8.target=java.util.ArrayList\ printOrderByName(java.lang.String)
+comment9.params=temp
+comment9.target=ModelLayer.Order\ printOrder(ModelLayer.Order)
+numComments=11

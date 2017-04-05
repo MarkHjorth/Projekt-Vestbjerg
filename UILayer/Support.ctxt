@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Support()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SupportFunctions\r\n
+comment1.params=
+comment1.target=void\ goodBye()
+comment2.params=
+comment2.target=java.lang.String\ getInput()
+comment3.params=
+comment3.target=void\ clearWindow()
+comment4.params=
+comment4.target=boolean\ checkIfExit()
+comment5.params=
+comment5.target=void\ checkIfQuit()
+numComments=6

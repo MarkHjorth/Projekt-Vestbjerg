@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainUI()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=
+comment1.target=void\ menu()
+comment1.text=\r\n\ Main\ menu\r\n\ Is\ handeling\ the\ input\ and\ forwarding\ the\ requests\r\n
+comment2.params=
+comment2.target=void\ welcomeMenu()
+numComments=3

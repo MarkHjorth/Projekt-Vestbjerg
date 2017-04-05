@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InputHolder()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ InputHolder\r\n
+comment1.params=
+comment1.target=java.lang.String\ getInput()
+comment1.text=\r\n\ Makes\ sure\ the\ input\ is\ fittet\ to\ the\ program\ standard,\ to\ minimize\ failure\r\n
+numComments=2
